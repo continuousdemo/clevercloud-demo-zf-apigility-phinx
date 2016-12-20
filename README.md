@@ -1,3 +1,5 @@
+[![Build Status](https://status.continuousphp.com/git-hub/continuousdemo/clevercloud-demo-zf-apigility-phinx?token=631919f9-9021-406a-9654-fd59cbf86894)](https://continuousphp.com/git-hub/continuousdemo/clevercloud-demo-zf-apigility-phinx)
+
 #clevercloud-demo-zf-apigility-phinx
 
 This demo use ZF Apiligity with Phinx Database migration and deploy it on Clever-Cloud.
