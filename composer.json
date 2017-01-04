@@ -1,5 +1,5 @@
 {
-    "name": "stephanejouvray/demoformation-api",
+    "name": "continuousdemo/demo-apigility",
     "description": "API de démo",
     "require": {
         "php": ">=5.3.23",
