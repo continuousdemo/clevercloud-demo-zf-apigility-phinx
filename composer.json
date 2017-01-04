@@ -1,6 +1,6 @@
 {
     "name": "continuousdemo/demo-apigility",
-    "description": "API de démo",
+    "description": "Apigility-demo",
     "require": {
         "php": ">=5.3.23",
         "zendframework/zendframework": "~2.4",
